@@ -14,6 +14,6 @@ O portfólio é composto por três páginas principais:
 - **CSS3**
 
 ### Como Visualizar
-Você pode acessar o projeto diretamente através [deste link para a página do GitHub Pages](https://RyanArmond.github.io/Projeto-Portifolio/).
+Você pode acessar o projeto diretamente através [deste link para a página do GitHub Pages](https://RyanArmond.github.io/Projeto-Portfolio/).
 
 Ou, se preferir, clone o repositório e abra o arquivo `index.html` em seu navegador.
